@@ -1,0 +1,7 @@
+elindul a játék
+    válassz nyelvet:
+        angol
+        magyar
+    opciokat fel sorol:
+    új játék kezdése
+    betöltés
